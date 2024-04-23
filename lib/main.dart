@@ -96,7 +96,7 @@ class BiodataSection extends StatelessWidget {
               ),
               SizedBox(width: 8),
               Text(
-                'Name: Irham Maulana',
+                'Nama: Irham Maulana',
                 style: TextStyle(fontSize: 16),
               ),
             ],
@@ -108,7 +108,7 @@ class BiodataSection extends StatelessWidget {
               Icon(Icons.email, size: 20),
               SizedBox(width: 8),
               Text(
-                'Email: johndoe@example.com',
+                'Email: i.maulana.azn@gmail.com',
                 style: TextStyle(fontSize: 16),
               ),
             ],
@@ -120,7 +120,7 @@ class BiodataSection extends StatelessWidget {
               Icon(Icons.phone, size: 20),
               SizedBox(width: 8),
               Text(
-                'Phone: +1 123-456-7890',
+                'No Telp: +628895501350',
                 style: TextStyle(fontSize: 16),
               ),
             ],
@@ -133,13 +133,13 @@ class BiodataSection extends StatelessWidget {
               Icon(Icons.school, size: 20),
               SizedBox(width: 8),
               Text(
-                'Education:',
+                'Pendidikan:',
                 style: TextStyle(fontSize: 16),
               ),
             ],
           ),
           Text(
-            'BSc in Computer Science, ABC University',
+            'STMIK Widya Utama',
             style: TextStyle(fontSize: 16),
           ),
           SizedBox(height: 10),
@@ -155,7 +155,7 @@ class BiodataSection extends StatelessWidget {
             ],
           ),
           Text(
-            'Software Engineer at XYZ Company',
+            'Software Engineer Tokopedia amiin',
             style: TextStyle(fontSize: 16),
           ),
         ],
